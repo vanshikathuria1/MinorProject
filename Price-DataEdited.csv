@@ -1,0 +1,1548 @@
+﻿Dist Code,Year,State Code,State Name,Dist Name,Crops,Harvest Price (Rs per Quintal)
+44,2000,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2001,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2002,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2003,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2004,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2005,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2006,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2007,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2008,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2009,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2010,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2011,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2012,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2013,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2014,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2015,1,Andhra Pradesh,Srikakulam,Rice,-1
+44,2016,1,Andhra Pradesh,Srikakulam,Rice,-1
+45,2000,1,Andhra Pradesh,Visakhapatnam,Rice,1050
+45,2001,1,Andhra Pradesh,Visakhapatnam,Rice,-1
+45,2002,1,Andhra Pradesh,Visakhapatnam,Rice,-1
+45,2003,1,Andhra Pradesh,Visakhapatnam,Rice,1000
+45,2004,1,Andhra Pradesh,Visakhapatnam,Rice,1000
+45,2005,1,Andhra Pradesh,Visakhapatnam,Rice,1300
+45,2006,1,Andhra Pradesh,Visakhapatnam,Rice,1300
+45,2007,1,Andhra Pradesh,Visakhapatnam,Rice,1600
+45,2008,1,Andhra Pradesh,Visakhapatnam,Rice,1700
+45,2009,1,Andhra Pradesh,Visakhapatnam,Rice,1700
+45,2010,1,Andhra Pradesh,Visakhapatnam,Rice,1700
+45,2011,1,Andhra Pradesh,Visakhapatnam,Rice,2000
+45,2012,1,Andhra Pradesh,Visakhapatnam,Rice,2500
+45,2013,1,Andhra Pradesh,Visakhapatnam,Rice,2500
+45,2014,1,Andhra Pradesh,Visakhapatnam,Rice,2400
+45,2015,1,Andhra Pradesh,Visakhapatnam,Rice,
+45,2016,1,Andhra Pradesh,Visakhapatnam,Rice,2600
+46,2000,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2001,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2002,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2003,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2004,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2005,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2006,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2007,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2008,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2009,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2010,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2011,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2012,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2013,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2014,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2015,1,Andhra Pradesh,East Godavari,Rice,-1
+46,2016,1,Andhra Pradesh,East Godavari,Rice,-1
+47,2000,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2001,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2002,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2003,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2004,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2005,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2006,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2007,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2008,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2009,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2010,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2011,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2012,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2013,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2014,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2015,1,Andhra Pradesh,West Godavari,Rice,-1
+47,2016,1,Andhra Pradesh,West Godavari,Rice,-1
+48,2000,1,Andhra Pradesh,Krishna,Rice,-1
+48,2001,1,Andhra Pradesh,Krishna,Rice,-1
+48,2002,1,Andhra Pradesh,Krishna,Rice,-1
+48,2003,1,Andhra Pradesh,Krishna,Rice,-1
+48,2004,1,Andhra Pradesh,Krishna,Rice,-1
+48,2005,1,Andhra Pradesh,Krishna,Rice,-1
+48,2006,1,Andhra Pradesh,Krishna,Rice,-1
+48,2007,1,Andhra Pradesh,Krishna,Rice,-1
+48,2008,1,Andhra Pradesh,Krishna,Rice,-1
+48,2009,1,Andhra Pradesh,Krishna,Rice,-1
+48,2010,1,Andhra Pradesh,Krishna,Rice,-1
+48,2011,1,Andhra Pradesh,Krishna,Rice,-1
+48,2012,1,Andhra Pradesh,Krishna,Rice,-1
+48,2013,1,Andhra Pradesh,Krishna,Rice,-1
+48,2014,1,Andhra Pradesh,Krishna,Rice,-1
+48,2015,1,Andhra Pradesh,Krishna,Rice,-1
+48,2016,1,Andhra Pradesh,Krishna,Rice,-1
+49,2000,1,Andhra Pradesh,Guntur,Rice,800
+49,2001,1,Andhra Pradesh,Guntur,Rice,900
+49,2002,1,Andhra Pradesh,Guntur,Rice,110
+49,2003,1,Andhra Pradesh,Guntur,Rice,110
+49,2004,1,Andhra Pradesh,Guntur,Rice,1050
+49,2005,1,Andhra Pradesh,Guntur,Rice,1500
+49,2006,1,Andhra Pradesh,Guntur,Rice,1400
+49,2007,1,Andhra Pradesh,Guntur,Rice,1400
+49,2008,1,Andhra Pradesh,Guntur,Rice,1800
+49,2009,1,Andhra Pradesh,Guntur,Rice,2300
+49,2010,1,Andhra Pradesh,Guntur,Rice,1800
+49,2011,1,Andhra Pradesh,Guntur,Rice,1800
+49,2012,1,Andhra Pradesh,Guntur,Rice,1800
+49,2013,1,Andhra Pradesh,Guntur,Rice,2400
+49,2014,1,Andhra Pradesh,Guntur,Rice,2600
+49,2015,1,Andhra Pradesh,Guntur,Rice,2300
+49,2016,1,Andhra Pradesh,Guntur,Rice,2600
+50,2000,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2001,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2002,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2003,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2004,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2005,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2006,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2007,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2008,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2009,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2010,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2011,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2012,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2013,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2014,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2015,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+50,2016,1,Andhra Pradesh,S.P.S.Nellore,Rice,-1
+51,2000,1,Andhra Pradesh,Kurnool,Rice,0
+51,2001,1,Andhra Pradesh,Kurnool,Rice,0
+51,2002,1,Andhra Pradesh,Kurnool,Rice,0
+51,2003,1,Andhra Pradesh,Kurnool,Rice,0
+51,2004,1,Andhra Pradesh,Kurnool,Rice,1000
+51,2005,1,Andhra Pradesh,Kurnool,Rice,1000
+51,2006,1,Andhra Pradesh,Kurnool,Rice,900
+51,2007,1,Andhra Pradesh,Kurnool,Rice,1300
+51,2008,1,Andhra Pradesh,Kurnool,Rice,1700
+51,2009,1,Andhra Pradesh,Kurnool,Rice,1700
+51,2010,1,Andhra Pradesh,Kurnool,Rice,1700
+51,2011,1,Andhra Pradesh,Kurnool,Rice,1700
+51,2012,1,Andhra Pradesh,Kurnool,Rice,2100
+51,2013,1,Andhra Pradesh,Kurnool,Rice,2200
+51,2014,1,Andhra Pradesh,Kurnool,Rice,2600
+51,2015,1,Andhra Pradesh,Kurnool,Rice,2600
+51,2016,1,Andhra Pradesh,Kurnool,Rice,2800
+52,2000,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2001,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2002,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2003,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2004,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2005,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2006,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2007,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2008,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2009,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2010,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2011,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2012,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2013,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2014,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2015,1,Andhra Pradesh,Anantapur,Rice,-1
+52,2016,1,Andhra Pradesh,Anantapur,Rice,-1
+53,2000,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2001,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2002,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2003,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2004,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2005,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2006,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2007,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2008,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2009,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2010,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2011,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2012,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2013,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2014,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2015,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+53,2016,1,Andhra Pradesh,Kadapa YSR,Rice,-1
+54,2000,1,Andhra Pradesh,Chittoor,Rice,1000
+54,2001,1,Andhra Pradesh,Chittoor,Rice,1000
+54,2002,1,Andhra Pradesh,Chittoor,Rice,950
+54,2003,1,Andhra Pradesh,Chittoor,Rice,1000
+54,2004,1,Andhra Pradesh,Chittoor,Rice,1000
+54,2005,1,Andhra Pradesh,Chittoor,Rice,1150
+54,2006,1,Andhra Pradesh,Chittoor,Rice,1100
+54,2007,1,Andhra Pradesh,Chittoor,Rice,1200
+54,2008,1,Andhra Pradesh,Chittoor,Rice,1500
+54,2009,1,Andhra Pradesh,Chittoor,Rice,1800
+54,2010,1,Andhra Pradesh,Chittoor,Rice,1800
+54,2011,1,Andhra Pradesh,Chittoor,Rice,1800
+54,2012,1,Andhra Pradesh,Chittoor,Rice,2000
+54,2013,1,Andhra Pradesh,Chittoor,Rice,2200
+54,2014,1,Andhra Pradesh,Chittoor,Rice,2400
+54,2015,1,Andhra Pradesh,Chittoor,Rice,2400
+54,2016,1,Andhra Pradesh,Chittoor,Rice,2800
+503,2000,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2001,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2002,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2003,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2004,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2005,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2006,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2007,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2008,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2009,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2010,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2011,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2012,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2013,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2014,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2015,1,Andhra Pradesh,Vizianagaram,Rice,-1
+503,2016,1,Andhra Pradesh,Vizianagaram,Rice,-1
+504,2000,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2001,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2002,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2003,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2004,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2005,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2006,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2007,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2008,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2009,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2010,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2011,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2012,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2013,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2014,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2015,1,Andhra Pradesh,Prakasam,Rice,-1
+504,2016,1,Andhra Pradesh,Prakasam,Rice,-1
+44,2000,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2001,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2002,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2003,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2004,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2005,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2006,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2007,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2008,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2009,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2010,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2011,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2012,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2013,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2014,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2015,1,Andhra Pradesh,Srikakulam,Wheat,-1
+44,2016,1,Andhra Pradesh,Srikakulam,Wheat,-1
+45,2000,1,Andhra Pradesh,Visakhapatnam,Wheat,1300
+45,2001,1,Andhra Pradesh,Visakhapatnam,Wheat,-1
+45,2002,1,Andhra Pradesh,Visakhapatnam,Wheat,-1
+45,2003,1,Andhra Pradesh,Visakhapatnam,Wheat,1200
+45,2004,1,Andhra Pradesh,Visakhapatnam,Wheat,1300
+45,2005,1,Andhra Pradesh,Visakhapatnam,Wheat,-1
+45,2006,1,Andhra Pradesh,Visakhapatnam,Wheat,1800
+45,2007,1,Andhra Pradesh,Visakhapatnam,Wheat,1800
+45,2008,1,Andhra Pradesh,Visakhapatnam,Wheat,-1
+45,2009,1,Andhra Pradesh,Visakhapatnam,Wheat,-1
+45,2010,1,Andhra Pradesh,Visakhapatnam,Wheat,-1
+45,2011,1,Andhra Pradesh,Visakhapatnam,Wheat,-1
+45,2012,1,Andhra Pradesh,Visakhapatnam,Wheat,2800
+45,2013,1,Andhra Pradesh,Visakhapatnam,Wheat,2800
+45,2014,1,Andhra Pradesh,Visakhapatnam,Wheat,3000
+45,2015,1,Andhra Pradesh,Visakhapatnam,Wheat,-1
+45,2016,1,Andhra Pradesh,Visakhapatnam,Wheat,3000
+46,2000,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2001,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2002,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2003,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2004,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2005,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2006,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2007,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2008,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2009,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2010,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2011,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2012,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2013,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2014,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2015,1,Andhra Pradesh,East Godavari,Wheat,-1
+46,2016,1,Andhra Pradesh,East Godavari,Wheat,-1
+47,2000,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2001,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2002,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2003,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2004,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2005,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2006,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2007,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2008,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2009,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2010,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2011,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2012,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2013,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2014,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2015,1,Andhra Pradesh,West Godavari,Wheat,-1
+47,2016,1,Andhra Pradesh,West Godavari,Wheat,-1
+48,2000,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2001,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2002,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2003,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2004,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2005,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2006,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2007,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2008,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2009,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2010,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2011,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2012,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2013,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2014,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2015,1,Andhra Pradesh,Krishna,Wheat,-1
+48,2016,1,Andhra Pradesh,Krishna,Wheat,-1
+49,2000,1,Andhra Pradesh,Guntur,Wheat,1100
+49,2001,1,Andhra Pradesh,Guntur,Wheat,1175
+49,2002,1,Andhra Pradesh,Guntur,Wheat,1200
+49,2003,1,Andhra Pradesh,Guntur,Wheat,-1
+49,2004,1,Andhra Pradesh,Guntur,Wheat,-1
+49,2005,1,Andhra Pradesh,Guntur,Wheat,-1
+49,2006,1,Andhra Pradesh,Guntur,Wheat,-1
+49,2007,1,Andhra Pradesh,Guntur,Wheat,-1
+49,2008,1,Andhra Pradesh,Guntur,Wheat,-1
+49,2009,1,Andhra Pradesh,Guntur,Wheat,-1
+49,2010,1,Andhra Pradesh,Guntur,Wheat,-1
+49,2011,1,Andhra Pradesh,Guntur,Wheat,-1
+49,2012,1,Andhra Pradesh,Guntur,Wheat,-1
+49,2013,1,Andhra Pradesh,Guntur,Wheat,-1
+49,2014,1,Andhra Pradesh,Guntur,Wheat,-1
+49,2015,1,Andhra Pradesh,Guntur,Wheat,3500
+49,2016,1,Andhra Pradesh,Guntur,Wheat,3200
+50,2000,1,Andhra Pradesh,S.P.S.Nellore,Wheat,440
+50,2001,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2002,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2003,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2004,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2005,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2006,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2007,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2008,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2009,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2010,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2011,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2012,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2013,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2014,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2015,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+50,2016,1,Andhra Pradesh,S.P.S.Nellore,Wheat,-1
+51,2000,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2001,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2002,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2003,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2004,1,Andhra Pradesh,Kurnool,Wheat,13
+51,2005,1,Andhra Pradesh,Kurnool,Wheat,17
+51,2006,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2007,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2008,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2009,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2010,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2011,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2012,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2013,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2014,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2015,1,Andhra Pradesh,Kurnool,Wheat,-1
+51,2016,1,Andhra Pradesh,Kurnool,Wheat,3000
+52,2000,1,Andhra Pradesh,Anantapur,Wheat,467
+52,2001,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2002,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2003,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2004,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2005,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2006,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2007,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2008,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2009,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2010,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2011,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2012,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2013,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2014,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2015,1,Andhra Pradesh,Anantapur,Wheat,-1
+52,2016,1,Andhra Pradesh,Anantapur,Wheat,-1
+53,2000,1,Andhra Pradesh,Kadapa YSR,Wheat,446
+53,2001,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2002,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2003,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2004,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2005,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2006,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2007,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2008,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2009,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2010,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2011,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2012,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2013,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2014,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2015,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+53,2016,1,Andhra Pradesh,Kadapa YSR,Wheat,-1
+54,2000,1,Andhra Pradesh,Chittoor,Wheat,1400
+54,2001,1,Andhra Pradesh,Chittoor,Wheat,1500
+54,2002,1,Andhra Pradesh,Chittoor,Wheat,1500
+54,2003,1,Andhra Pradesh,Chittoor,Wheat,1500
+54,2004,1,Andhra Pradesh,Chittoor,Wheat,1500
+54,2005,1,Andhra Pradesh,Chittoor,Wheat,1800
+54,2006,1,Andhra Pradesh,Chittoor,Wheat,1700
+54,2007,1,Andhra Pradesh,Chittoor,Wheat,1900
+54,2008,1,Andhra Pradesh,Chittoor,Wheat,2400
+54,2009,1,Andhra Pradesh,Chittoor,Wheat,2500
+54,2010,1,Andhra Pradesh,Chittoor,Wheat,2400
+54,2011,1,Andhra Pradesh,Chittoor,Wheat,2700
+54,2012,1,Andhra Pradesh,Chittoor,Wheat,2600
+54,2013,1,Andhra Pradesh,Chittoor,Wheat,3000
+54,2014,1,Andhra Pradesh,Chittoor,Wheat,3000
+54,2015,1,Andhra Pradesh,Chittoor,Wheat,3600
+54,2016,1,Andhra Pradesh,Chittoor,Wheat,3200
+503,2000,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2001,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2002,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2003,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2004,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2005,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2006,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2007,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2008,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2009,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2010,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2011,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2012,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2013,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2014,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2015,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+503,2016,1,Andhra Pradesh,Vizianagaram,Wheat,-1
+504,2000,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2001,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2002,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2003,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2004,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2005,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2006,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2007,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2008,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2009,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2010,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2011,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2012,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2013,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2014,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2015,1,Andhra Pradesh,Prakasam,Wheat,-1
+504,2016,1,Andhra Pradesh,Prakasam,Wheat,-1
+44,2000,1,Andhra Pradesh,Srikakulam,Maize,386
+44,2001,1,Andhra Pradesh,Srikakulam,Maize,499
+44,2002,1,Andhra Pradesh,Srikakulam,Maize,513
+44,2003,1,Andhra Pradesh,Srikakulam,Maize,520
+44,2004,1,Andhra Pradesh,Srikakulam,Maize,516
+44,2005,1,Andhra Pradesh,Srikakulam,Maize,536
+44,2006,1,Andhra Pradesh,Srikakulam,Maize,604
+44,2007,1,Andhra Pradesh,Srikakulam,Maize,691
+44,2008,1,Andhra Pradesh,Srikakulam,Maize,791
+44,2009,1,Andhra Pradesh,Srikakulam,Maize,1114
+44,2010,1,Andhra Pradesh,Srikakulam,Maize,1160
+44,2011,1,Andhra Pradesh,Srikakulam,Maize,1106
+44,2012,1,Andhra Pradesh,Srikakulam,Maize,1258
+44,2013,1,Andhra Pradesh,Srikakulam,Maize,1312
+44,2014,1,Andhra Pradesh,Srikakulam,Maize,1105
+44,2015,1,Andhra Pradesh,Srikakulam,Maize,1274
+44,2016,1,Andhra Pradesh,Srikakulam,Maize,1405
+45,2000,1,Andhra Pradesh,Visakhapatnam,Maize,386
+45,2001,1,Andhra Pradesh,Visakhapatnam,Maize,499
+45,2002,1,Andhra Pradesh,Visakhapatnam,Maize,513
+45,2003,1,Andhra Pradesh,Visakhapatnam,Maize,514
+45,2004,1,Andhra Pradesh,Visakhapatnam,Maize,516
+45,2005,1,Andhra Pradesh,Visakhapatnam,Maize,518
+45,2006,1,Andhra Pradesh,Visakhapatnam,Maize,632
+45,2007,1,Andhra Pradesh,Visakhapatnam,Maize,699
+45,2008,1,Andhra Pradesh,Visakhapatnam,Maize,818
+45,2009,1,Andhra Pradesh,Visakhapatnam,Maize,973
+45,2010,1,Andhra Pradesh,Visakhapatnam,Maize,1129
+45,2011,1,Andhra Pradesh,Visakhapatnam,Maize,980
+45,2012,1,Andhra Pradesh,Visakhapatnam,Maize,1577
+45,2013,1,Andhra Pradesh,Visakhapatnam,Maize,1362
+45,2014,1,Andhra Pradesh,Visakhapatnam,Maize,1412
+45,2015,1,Andhra Pradesh,Visakhapatnam,Maize,1259
+45,2016,1,Andhra Pradesh,Visakhapatnam,Maize,1257
+46,2000,1,Andhra Pradesh,East Godavari,Maize,386
+46,2001,1,Andhra Pradesh,East Godavari,Maize,499
+46,2002,1,Andhra Pradesh,East Godavari,Maize,513
+46,2003,1,Andhra Pradesh,East Godavari,Maize,523
+46,2004,1,Andhra Pradesh,East Godavari,Maize,505
+46,2005,1,Andhra Pradesh,East Godavari,Maize,517
+46,2006,1,Andhra Pradesh,East Godavari,Maize,603
+46,2007,1,Andhra Pradesh,East Godavari,Maize,704
+46,2008,1,Andhra Pradesh,East Godavari,Maize,847
+46,2009,1,Andhra Pradesh,East Godavari,Maize,883
+46,2010,1,Andhra Pradesh,East Godavari,Maize,1133
+46,2011,1,Andhra Pradesh,East Godavari,Maize,1071
+46,2012,1,Andhra Pradesh,East Godavari,Maize,1232
+46,2013,1,Andhra Pradesh,East Godavari,Maize,1246
+46,2014,1,Andhra Pradesh,East Godavari,Maize,1230
+46,2015,1,Andhra Pradesh,East Godavari,Maize,1317
+46,2016,1,Andhra Pradesh,East Godavari,Maize,1433
+47,2000,1,Andhra Pradesh,West Godavari,Maize,386
+47,2001,1,Andhra Pradesh,West Godavari,Maize,499
+47,2002,1,Andhra Pradesh,West Godavari,Maize,513
+47,2003,1,Andhra Pradesh,West Godavari,Maize,525
+47,2004,1,Andhra Pradesh,West Godavari,Maize,505
+47,2005,1,Andhra Pradesh,West Godavari,Maize,532
+47,2006,1,Andhra Pradesh,West Godavari,Maize,595
+47,2007,1,Andhra Pradesh,West Godavari,Maize,640
+47,2008,1,Andhra Pradesh,West Godavari,Maize,792
+47,2009,1,Andhra Pradesh,West Godavari,Maize,871
+47,2010,1,Andhra Pradesh,West Godavari,Maize,1130
+47,2011,1,Andhra Pradesh,West Godavari,Maize,1158
+47,2012,1,Andhra Pradesh,West Godavari,Maize,1181
+47,2013,1,Andhra Pradesh,West Godavari,Maize,1340
+47,2014,1,Andhra Pradesh,West Godavari,Maize,1238
+47,2015,1,Andhra Pradesh,West Godavari,Maize,1261
+47,2016,1,Andhra Pradesh,West Godavari,Maize,1369
+48,2000,1,Andhra Pradesh,Krishna,Maize,386
+48,2001,1,Andhra Pradesh,Krishna,Maize,499
+48,2002,1,Andhra Pradesh,Krishna,Maize,513
+48,2003,1,Andhra Pradesh,Krishna,Maize,517
+48,2004,1,Andhra Pradesh,Krishna,Maize,492
+48,2005,1,Andhra Pradesh,Krishna,Maize,517
+48,2006,1,Andhra Pradesh,Krishna,Maize,576
+48,2007,1,Andhra Pradesh,Krishna,Maize,648
+48,2008,1,Andhra Pradesh,Krishna,Maize,801
+48,2009,1,Andhra Pradesh,Krishna,Maize,822
+48,2010,1,Andhra Pradesh,Krishna,Maize,1122
+48,2011,1,Andhra Pradesh,Krishna,Maize,1045
+48,2012,1,Andhra Pradesh,Krishna,Maize,1210
+48,2013,1,Andhra Pradesh,Krishna,Maize,1242
+48,2014,1,Andhra Pradesh,Krishna,Maize,1233
+48,2015,1,Andhra Pradesh,Krishna,Maize,1369
+48,2016,1,Andhra Pradesh,Krishna,Maize,1430
+49,2000,1,Andhra Pradesh,Guntur,Maize,386
+49,2001,1,Andhra Pradesh,Guntur,Maize,499
+49,2002,1,Andhra Pradesh,Guntur,Maize,513
+49,2003,1,Andhra Pradesh,Guntur,Maize,523
+49,2004,1,Andhra Pradesh,Guntur,Maize,498
+49,2005,1,Andhra Pradesh,Guntur,Maize,517
+49,2006,1,Andhra Pradesh,Guntur,Maize,595
+49,2007,1,Andhra Pradesh,Guntur,Maize,661
+49,2008,1,Andhra Pradesh,Guntur,Maize,805
+49,2009,1,Andhra Pradesh,Guntur,Maize,878
+49,2010,1,Andhra Pradesh,Guntur,Maize,1144
+49,2011,1,Andhra Pradesh,Guntur,Maize,1108
+49,2012,1,Andhra Pradesh,Guntur,Maize,1199
+49,2013,1,Andhra Pradesh,Guntur,Maize,1193
+49,2014,1,Andhra Pradesh,Guntur,Maize,1183
+49,2015,1,Andhra Pradesh,Guntur,Maize,1367
+49,2016,1,Andhra Pradesh,Guntur,Maize,1474
+50,2000,1,Andhra Pradesh,S.P.S.Nellore,Maize,372
+50,2001,1,Andhra Pradesh,S.P.S.Nellore,Maize,464
+50,2002,1,Andhra Pradesh,S.P.S.Nellore,Maize,513
+50,2003,1,Andhra Pradesh,S.P.S.Nellore,Maize,504
+50,2004,1,Andhra Pradesh,S.P.S.Nellore,Maize,501
+50,2005,1,Andhra Pradesh,S.P.S.Nellore,Maize,495
+50,2006,1,Andhra Pradesh,S.P.S.Nellore,Maize,599
+50,2007,1,Andhra Pradesh,S.P.S.Nellore,Maize,661
+50,2008,1,Andhra Pradesh,S.P.S.Nellore,Maize,810
+50,2009,1,Andhra Pradesh,S.P.S.Nellore,Maize,916
+50,2010,1,Andhra Pradesh,S.P.S.Nellore,Maize,1130
+50,2011,1,Andhra Pradesh,S.P.S.Nellore,Maize,1099
+50,2012,1,Andhra Pradesh,S.P.S.Nellore,Maize,1322
+50,2013,1,Andhra Pradesh,S.P.S.Nellore,Maize,-1
+50,2014,1,Andhra Pradesh,S.P.S.Nellore,Maize,1154
+50,2015,1,Andhra Pradesh,S.P.S.Nellore,Maize,1375
+50,2016,1,Andhra Pradesh,S.P.S.Nellore,Maize,1457
+51,2000,1,Andhra Pradesh,Kurnool,Maize,372
+51,2001,1,Andhra Pradesh,Kurnool,Maize,472
+51,2002,1,Andhra Pradesh,Kurnool,Maize,513
+51,2003,1,Andhra Pradesh,Kurnool,Maize,503
+51,2004,1,Andhra Pradesh,Kurnool,Maize,495
+51,2005,1,Andhra Pradesh,Kurnool,Maize,511
+51,2006,1,Andhra Pradesh,Kurnool,Maize,629
+51,2007,1,Andhra Pradesh,Kurnool,Maize,652
+51,2008,1,Andhra Pradesh,Kurnool,Maize,803
+51,2009,1,Andhra Pradesh,Kurnool,Maize,842
+51,2010,1,Andhra Pradesh,Kurnool,Maize,956
+51,2011,1,Andhra Pradesh,Kurnool,Maize,1032
+51,2012,1,Andhra Pradesh,Kurnool,Maize,1264
+51,2013,1,Andhra Pradesh,Kurnool,Maize,1248
+51,2014,1,Andhra Pradesh,Kurnool,Maize,1101
+51,2015,1,Andhra Pradesh,Kurnool,Maize,1343
+51,2016,1,Andhra Pradesh,Kurnool,Maize,1388
+52,2000,1,Andhra Pradesh,Anantapur,Maize,372
+52,2001,1,Andhra Pradesh,Anantapur,Maize,472
+52,2002,1,Andhra Pradesh,Anantapur,Maize,513
+52,2003,1,Andhra Pradesh,Anantapur,Maize,492
+52,2004,1,Andhra Pradesh,Anantapur,Maize,495
+52,2005,1,Andhra Pradesh,Anantapur,Maize,500
+52,2006,1,Andhra Pradesh,Anantapur,Maize,598
+52,2007,1,Andhra Pradesh,Anantapur,Maize,624
+52,2008,1,Andhra Pradesh,Anantapur,Maize,817
+52,2009,1,Andhra Pradesh,Anantapur,Maize,915
+52,2010,1,Andhra Pradesh,Anantapur,Maize,929
+52,2011,1,Andhra Pradesh,Anantapur,Maize,1097
+52,2012,1,Andhra Pradesh,Anantapur,Maize,1332
+52,2013,1,Andhra Pradesh,Anantapur,Maize,1277
+52,2014,1,Andhra Pradesh,Anantapur,Maize,1138
+52,2015,1,Andhra Pradesh,Anantapur,Maize,1281
+52,2016,1,Andhra Pradesh,Anantapur,Maize,1405
+53,2000,1,Andhra Pradesh,Kadapa YSR,Maize,372
+53,2001,1,Andhra Pradesh,Kadapa YSR,Maize,499
+53,2002,1,Andhra Pradesh,Kadapa YSR,Maize,513
+53,2003,1,Andhra Pradesh,Kadapa YSR,Maize,479
+53,2004,1,Andhra Pradesh,Kadapa YSR,Maize,504
+53,2005,1,Andhra Pradesh,Kadapa YSR,Maize,500
+53,2006,1,Andhra Pradesh,Kadapa YSR,Maize,598
+53,2007,1,Andhra Pradesh,Kadapa YSR,Maize,638
+53,2008,1,Andhra Pradesh,Kadapa YSR,Maize,817
+53,2009,1,Andhra Pradesh,Kadapa YSR,Maize,879
+53,2010,1,Andhra Pradesh,Kadapa YSR,Maize,973
+53,2011,1,Andhra Pradesh,Kadapa YSR,Maize,1068
+53,2012,1,Andhra Pradesh,Kadapa YSR,Maize,1315
+53,2013,1,Andhra Pradesh,Kadapa YSR,Maize,-1
+53,2014,1,Andhra Pradesh,Kadapa YSR,Maize,1413
+53,2015,1,Andhra Pradesh,Kadapa YSR,Maize,1443
+53,2016,1,Andhra Pradesh,Kadapa YSR,Maize,1476
+54,2000,1,Andhra Pradesh,Chittoor,Maize,372
+54,2001,1,Andhra Pradesh,Chittoor,Maize,499
+54,2002,1,Andhra Pradesh,Chittoor,Maize,513
+54,2003,1,Andhra Pradesh,Chittoor,Maize,506
+54,2004,1,Andhra Pradesh,Chittoor,Maize,495
+54,2005,1,Andhra Pradesh,Chittoor,Maize,500
+54,2006,1,Andhra Pradesh,Chittoor,Maize,598
+54,2007,1,Andhra Pradesh,Chittoor,Maize,638
+54,2008,1,Andhra Pradesh,Chittoor,Maize,817
+54,2009,1,Andhra Pradesh,Chittoor,Maize,879
+54,2010,1,Andhra Pradesh,Chittoor,Maize,950
+54,2011,1,Andhra Pradesh,Chittoor,Maize,1062
+54,2012,1,Andhra Pradesh,Chittoor,Maize,1327
+54,2013,1,Andhra Pradesh,Chittoor,Maize,-1
+54,2014,1,Andhra Pradesh,Chittoor,Maize,1101
+54,2015,1,Andhra Pradesh,Chittoor,Maize,1293
+54,2016,1,Andhra Pradesh,Chittoor,Maize,1358
+503,2000,1,Andhra Pradesh,Vizianagaram,Maize,386
+503,2001,1,Andhra Pradesh,Vizianagaram,Maize,523
+503,2002,1,Andhra Pradesh,Vizianagaram,Maize,517
+503,2003,1,Andhra Pradesh,Vizianagaram,Maize,527
+503,2004,1,Andhra Pradesh,Vizianagaram,Maize,516
+503,2005,1,Andhra Pradesh,Vizianagaram,Maize,518
+503,2006,1,Andhra Pradesh,Vizianagaram,Maize,660
+503,2007,1,Andhra Pradesh,Vizianagaram,Maize,702
+503,2008,1,Andhra Pradesh,Vizianagaram,Maize,845
+503,2009,1,Andhra Pradesh,Vizianagaram,Maize,885
+503,2010,1,Andhra Pradesh,Vizianagaram,Maize,1110
+503,2011,1,Andhra Pradesh,Vizianagaram,Maize,1147
+503,2012,1,Andhra Pradesh,Vizianagaram,Maize,1184
+503,2013,1,Andhra Pradesh,Vizianagaram,Maize,1208
+503,2014,1,Andhra Pradesh,Vizianagaram,Maize,1196
+503,2015,1,Andhra Pradesh,Vizianagaram,Maize,1410
+503,2016,1,Andhra Pradesh,Vizianagaram,Maize,1421
+504,2000,1,Andhra Pradesh,Prakasam,Maize,386
+504,2001,1,Andhra Pradesh,Prakasam,Maize,492
+504,2002,1,Andhra Pradesh,Prakasam,Maize,518
+504,2003,1,Andhra Pradesh,Prakasam,Maize,497
+504,2004,1,Andhra Pradesh,Prakasam,Maize,501
+504,2005,1,Andhra Pradesh,Prakasam,Maize,495
+504,2006,1,Andhra Pradesh,Prakasam,Maize,599
+504,2007,1,Andhra Pradesh,Prakasam,Maize,661
+504,2008,1,Andhra Pradesh,Prakasam,Maize,810
+504,2009,1,Andhra Pradesh,Prakasam,Maize,916
+504,2010,1,Andhra Pradesh,Prakasam,Maize,1125
+504,2011,1,Andhra Pradesh,Prakasam,Maize,1095
+504,2012,1,Andhra Pradesh,Prakasam,Maize,1322
+504,2013,1,Andhra Pradesh,Prakasam,Maize,1218
+504,2014,1,Andhra Pradesh,Prakasam,Maize,1307
+504,2015,1,Andhra Pradesh,Prakasam,Maize,1364
+504,2016,1,Andhra Pradesh,Prakasam,Maize,1485
+44,2000,1,Andhra Pradesh,Srikakulam,Chickpea,-1
+44,2001,1,Andhra Pradesh,Srikakulam,Chickpea,-1
+44,2002,1,Andhra Pradesh,Srikakulam,Chickpea,-1
+44,2003,1,Andhra Pradesh,Srikakulam,Chickpea,-1
+44,2004,1,Andhra Pradesh,Srikakulam,Chickpea,1564
+44,2005,1,Andhra Pradesh,Srikakulam,Chickpea,1785
+44,2006,1,Andhra Pradesh,Srikakulam,Chickpea,2012
+44,2007,1,Andhra Pradesh,Srikakulam,Chickpea,2081
+44,2008,1,Andhra Pradesh,Srikakulam,Chickpea,2164
+44,2009,1,Andhra Pradesh,Srikakulam,Chickpea,2116
+44,2010,1,Andhra Pradesh,Srikakulam,Chickpea,-1
+44,2011,1,Andhra Pradesh,Srikakulam,Chickpea,-1
+44,2012,1,Andhra Pradesh,Srikakulam,Chickpea,-1
+44,2013,1,Andhra Pradesh,Srikakulam,Chickpea,-1
+44,2014,1,Andhra Pradesh,Srikakulam,Chickpea,-1
+44,2015,1,Andhra Pradesh,Srikakulam,Chickpea,-1
+44,2016,1,Andhra Pradesh,Srikakulam,Chickpea,-1
+45,2000,1,Andhra Pradesh,Visakhapatnam,Chickpea,2243
+45,2001,1,Andhra Pradesh,Visakhapatnam,Chickpea,1479
+45,2002,1,Andhra Pradesh,Visakhapatnam,Chickpea,1510
+45,2003,1,Andhra Pradesh,Visakhapatnam,Chickpea,1429
+45,2004,1,Andhra Pradesh,Visakhapatnam,Chickpea,1583
+45,2005,1,Andhra Pradesh,Visakhapatnam,Chickpea,1919
+45,2006,1,Andhra Pradesh,Visakhapatnam,Chickpea,2012
+45,2007,1,Andhra Pradesh,Visakhapatnam,Chickpea,2081
+45,2008,1,Andhra Pradesh,Visakhapatnam,Chickpea,2277
+45,2009,1,Andhra Pradesh,Visakhapatnam,Chickpea,2116
+45,2010,1,Andhra Pradesh,Visakhapatnam,Chickpea,2971
+45,2011,1,Andhra Pradesh,Visakhapatnam,Chickpea,3330
+45,2012,1,Andhra Pradesh,Visakhapatnam,Chickpea,3551
+45,2013,1,Andhra Pradesh,Visakhapatnam,Chickpea,-1
+45,2014,1,Andhra Pradesh,Visakhapatnam,Chickpea,-1
+45,2015,1,Andhra Pradesh,Visakhapatnam,Chickpea,-1
+45,2016,1,Andhra Pradesh,Visakhapatnam,Chickpea,-1
+46,2000,1,Andhra Pradesh,East Godavari,Chickpea,2243
+46,2001,1,Andhra Pradesh,East Godavari,Chickpea,1479
+46,2002,1,Andhra Pradesh,East Godavari,Chickpea,1510
+46,2003,1,Andhra Pradesh,East Godavari,Chickpea,1429
+46,2004,1,Andhra Pradesh,East Godavari,Chickpea,1583
+46,2005,1,Andhra Pradesh,East Godavari,Chickpea,1919
+46,2006,1,Andhra Pradesh,East Godavari,Chickpea,2012
+46,2007,1,Andhra Pradesh,East Godavari,Chickpea,2083
+46,2008,1,Andhra Pradesh,East Godavari,Chickpea,2277
+46,2009,1,Andhra Pradesh,East Godavari,Chickpea,2477
+46,2010,1,Andhra Pradesh,East Godavari,Chickpea,2971
+46,2011,1,Andhra Pradesh,East Godavari,Chickpea,3330
+46,2012,1,Andhra Pradesh,East Godavari,Chickpea,3551
+46,2013,1,Andhra Pradesh,East Godavari,Chickpea,-1
+46,2014,1,Andhra Pradesh,East Godavari,Chickpea,-1
+46,2015,1,Andhra Pradesh,East Godavari,Chickpea,-1
+46,2016,1,Andhra Pradesh,East Godavari,Chickpea,-1
+47,2000,1,Andhra Pradesh,West Godavari,Chickpea,2243
+47,2001,1,Andhra Pradesh,West Godavari,Chickpea,1479
+47,2002,1,Andhra Pradesh,West Godavari,Chickpea,1510
+47,2003,1,Andhra Pradesh,West Godavari,Chickpea,-1
+47,2004,1,Andhra Pradesh,West Godavari,Chickpea,1564
+47,2005,1,Andhra Pradesh,West Godavari,Chickpea,1785
+47,2006,1,Andhra Pradesh,West Godavari,Chickpea,2209
+47,2007,1,Andhra Pradesh,West Godavari,Chickpea,2081
+47,2008,1,Andhra Pradesh,West Godavari,Chickpea,2164
+47,2009,1,Andhra Pradesh,West Godavari,Chickpea,2477
+47,2010,1,Andhra Pradesh,West Godavari,Chickpea,-1
+47,2011,1,Andhra Pradesh,West Godavari,Chickpea,-1
+47,2012,1,Andhra Pradesh,West Godavari,Chickpea,-1
+47,2013,1,Andhra Pradesh,West Godavari,Chickpea,-1
+47,2014,1,Andhra Pradesh,West Godavari,Chickpea,-1
+47,2015,1,Andhra Pradesh,West Godavari,Chickpea,-1
+47,2016,1,Andhra Pradesh,West Godavari,Chickpea,-1
+48,2000,1,Andhra Pradesh,Krishna,Chickpea,2243
+48,2001,1,Andhra Pradesh,Krishna,Chickpea,1479
+48,2002,1,Andhra Pradesh,Krishna,Chickpea,1510
+48,2003,1,Andhra Pradesh,Krishna,Chickpea,1437
+48,2004,1,Andhra Pradesh,Krishna,Chickpea,1583
+48,2005,1,Andhra Pradesh,Krishna,Chickpea,2100
+48,2006,1,Andhra Pradesh,Krishna,Chickpea,2012
+48,2007,1,Andhra Pradesh,Krishna,Chickpea,2083
+48,2008,1,Andhra Pradesh,Krishna,Chickpea,2277
+48,2009,1,Andhra Pradesh,Krishna,Chickpea,2477
+48,2010,1,Andhra Pradesh,Krishna,Chickpea,2971
+48,2011,1,Andhra Pradesh,Krishna,Chickpea,3330
+48,2012,1,Andhra Pradesh,Krishna,Chickpea,3277
+48,2013,1,Andhra Pradesh,Krishna,Chickpea,-1
+48,2014,1,Andhra Pradesh,Krishna,Chickpea,-1
+48,2015,1,Andhra Pradesh,Krishna,Chickpea,4198
+48,2016,1,Andhra Pradesh,Krishna,Chickpea,6161
+49,2000,1,Andhra Pradesh,Guntur,Chickpea,2243
+49,2001,1,Andhra Pradesh,Guntur,Chickpea,1479
+49,2002,1,Andhra Pradesh,Guntur,Chickpea,1510
+49,2003,1,Andhra Pradesh,Guntur,Chickpea,1430
+49,2004,1,Andhra Pradesh,Guntur,Chickpea,1583
+49,2005,1,Andhra Pradesh,Guntur,Chickpea,2100
+49,2006,1,Andhra Pradesh,Guntur,Chickpea,2012
+49,2007,1,Andhra Pradesh,Guntur,Chickpea,2083
+49,2008,1,Andhra Pradesh,Guntur,Chickpea,2277
+49,2009,1,Andhra Pradesh,Guntur,Chickpea,2477
+49,2010,1,Andhra Pradesh,Guntur,Chickpea,2971
+49,2011,1,Andhra Pradesh,Guntur,Chickpea,3337
+49,2012,1,Andhra Pradesh,Guntur,Chickpea,3277
+49,2013,1,Andhra Pradesh,Guntur,Chickpea,3065
+49,2014,1,Andhra Pradesh,Guntur,Chickpea,3778
+49,2015,1,Andhra Pradesh,Guntur,Chickpea,4762
+49,2016,1,Andhra Pradesh,Guntur,Chickpea,5309
+50,2000,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,2243
+50,2001,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,1479
+50,2002,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,1431
+50,2003,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,1429
+50,2004,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,1583
+50,2005,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,1738
+50,2006,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,1693
+50,2007,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,1965
+50,2008,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,3027
+50,2009,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,2889
+50,2010,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,3313
+50,2011,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,4160
+50,2012,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,3493
+50,2013,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,3003
+50,2014,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,4003
+50,2015,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,4514
+50,2016,1,Andhra Pradesh,S.P.S.Nellore,Chickpea,5852
+51,2000,1,Andhra Pradesh,Kurnool,Chickpea,1467
+51,2001,1,Andhra Pradesh,Kurnool,Chickpea,1459
+51,2002,1,Andhra Pradesh,Kurnool,Chickpea,1499
+51,2003,1,Andhra Pradesh,Kurnool,Chickpea,1478
+51,2004,1,Andhra Pradesh,Kurnool,Chickpea,1613
+51,2005,1,Andhra Pradesh,Kurnool,Chickpea,1663
+51,2006,1,Andhra Pradesh,Kurnool,Chickpea,2263
+51,2007,1,Andhra Pradesh,Kurnool,Chickpea,1958
+51,2008,1,Andhra Pradesh,Kurnool,Chickpea,2098
+51,2009,1,Andhra Pradesh,Kurnool,Chickpea,2047
+51,2010,1,Andhra Pradesh,Kurnool,Chickpea,2349
+51,2011,1,Andhra Pradesh,Kurnool,Chickpea,3511
+51,2012,1,Andhra Pradesh,Kurnool,Chickpea,3572
+51,2013,1,Andhra Pradesh,Kurnool,Chickpea,2927
+51,2014,1,Andhra Pradesh,Kurnool,Chickpea,3432
+51,2015,1,Andhra Pradesh,Kurnool,Chickpea,4503
+51,2016,1,Andhra Pradesh,Kurnool,Chickpea,8541
+52,2000,1,Andhra Pradesh,Anantapur,Chickpea,1433
+52,2001,1,Andhra Pradesh,Anantapur,Chickpea,1595
+52,2002,1,Andhra Pradesh,Anantapur,Chickpea,1661
+52,2003,1,Andhra Pradesh,Anantapur,Chickpea,1476
+52,2004,1,Andhra Pradesh,Anantapur,Chickpea,1613
+52,2005,1,Andhra Pradesh,Anantapur,Chickpea,1744
+52,2006,1,Andhra Pradesh,Anantapur,Chickpea,2407
+52,2007,1,Andhra Pradesh,Anantapur,Chickpea,2363
+52,2008,1,Andhra Pradesh,Anantapur,Chickpea,2373
+52,2009,1,Andhra Pradesh,Anantapur,Chickpea,2210
+52,2010,1,Andhra Pradesh,Anantapur,Chickpea,2431
+52,2011,1,Andhra Pradesh,Anantapur,Chickpea,3508
+52,2012,1,Andhra Pradesh,Anantapur,Chickpea,3664
+52,2013,1,Andhra Pradesh,Anantapur,Chickpea,3010
+52,2014,1,Andhra Pradesh,Anantapur,Chickpea,3408
+52,2015,1,Andhra Pradesh,Anantapur,Chickpea,4534
+52,2016,1,Andhra Pradesh,Anantapur,Chickpea,5945
+53,2000,1,Andhra Pradesh,Kadapa YSR,Chickpea,1433
+53,2001,1,Andhra Pradesh,Kadapa YSR,Chickpea,1479
+53,2002,1,Andhra Pradesh,Kadapa YSR,Chickpea,1431
+53,2003,1,Andhra Pradesh,Kadapa YSR,Chickpea,1403
+53,2004,1,Andhra Pradesh,Kadapa YSR,Chickpea,1506
+53,2005,1,Andhra Pradesh,Kadapa YSR,Chickpea,1590
+53,2006,1,Andhra Pradesh,Kadapa YSR,Chickpea,2144
+53,2007,1,Andhra Pradesh,Kadapa YSR,Chickpea,2193
+53,2008,1,Andhra Pradesh,Kadapa YSR,Chickpea,2178
+53,2009,1,Andhra Pradesh,Kadapa YSR,Chickpea,2132
+53,2010,1,Andhra Pradesh,Kadapa YSR,Chickpea,2452
+53,2011,1,Andhra Pradesh,Kadapa YSR,Chickpea,3352
+53,2012,1,Andhra Pradesh,Kadapa YSR,Chickpea,3469
+53,2013,1,Andhra Pradesh,Kadapa YSR,Chickpea,2815
+53,2014,1,Andhra Pradesh,Kadapa YSR,Chickpea,3509
+53,2015,1,Andhra Pradesh,Kadapa YSR,Chickpea,4580
+53,2016,1,Andhra Pradesh,Kadapa YSR,Chickpea,6537
+54,2000,1,Andhra Pradesh,Chittoor,Chickpea,-1
+54,2001,1,Andhra Pradesh,Chittoor,Chickpea,-1
+54,2002,1,Andhra Pradesh,Chittoor,Chickpea,1510
+54,2003,1,Andhra Pradesh,Chittoor,Chickpea,-1
+54,2004,1,Andhra Pradesh,Chittoor,Chickpea,1506
+54,2005,1,Andhra Pradesh,Chittoor,Chickpea,1785
+54,2006,1,Andhra Pradesh,Chittoor,Chickpea,2209
+54,2007,1,Andhra Pradesh,Chittoor,Chickpea,2081
+54,2008,1,Andhra Pradesh,Chittoor,Chickpea,2164
+54,2009,1,Andhra Pradesh,Chittoor,Chickpea,2116
+54,2010,1,Andhra Pradesh,Chittoor,Chickpea,-1
+54,2011,1,Andhra Pradesh,Chittoor,Chickpea,-1
+54,2012,1,Andhra Pradesh,Chittoor,Chickpea,-1
+54,2013,1,Andhra Pradesh,Chittoor,Chickpea,-1
+54,2014,1,Andhra Pradesh,Chittoor,Chickpea,-1
+54,2015,1,Andhra Pradesh,Chittoor,Chickpea,-1
+54,2016,1,Andhra Pradesh,Chittoor,Chickpea,-1
+503,2000,1,Andhra Pradesh,Vizianagaram,Chickpea,2243
+503,2001,1,Andhra Pradesh,Vizianagaram,Chickpea,1479
+503,2002,1,Andhra Pradesh,Vizianagaram,Chickpea,1510
+503,2003,1,Andhra Pradesh,Vizianagaram,Chickpea,1429
+503,2004,1,Andhra Pradesh,Vizianagaram,Chickpea,1583
+503,2005,1,Andhra Pradesh,Vizianagaram,Chickpea,1919
+503,2006,1,Andhra Pradesh,Vizianagaram,Chickpea,2012
+503,2007,1,Andhra Pradesh,Vizianagaram,Chickpea,2083
+503,2008,1,Andhra Pradesh,Vizianagaram,Chickpea,2277
+503,2009,1,Andhra Pradesh,Vizianagaram,Chickpea,2477
+503,2010,1,Andhra Pradesh,Vizianagaram,Chickpea,2971
+503,2011,1,Andhra Pradesh,Vizianagaram,Chickpea,3330
+503,2012,1,Andhra Pradesh,Vizianagaram,Chickpea,3551
+503,2013,1,Andhra Pradesh,Vizianagaram,Chickpea,-1
+503,2014,1,Andhra Pradesh,Vizianagaram,Chickpea,-1
+503,2015,1,Andhra Pradesh,Vizianagaram,Chickpea,-1
+503,2016,1,Andhra Pradesh,Vizianagaram,Chickpea,-1
+504,2000,1,Andhra Pradesh,Prakasam,Chickpea,2243
+504,2001,1,Andhra Pradesh,Prakasam,Chickpea,1479
+504,2002,1,Andhra Pradesh,Prakasam,Chickpea,1510
+504,2003,1,Andhra Pradesh,Prakasam,Chickpea,1429
+504,2004,1,Andhra Pradesh,Prakasam,Chickpea,1583
+504,2005,1,Andhra Pradesh,Prakasam,Chickpea,2100
+504,2006,1,Andhra Pradesh,Prakasam,Chickpea,2332
+504,2007,1,Andhra Pradesh,Prakasam,Chickpea,2201
+504,2008,1,Andhra Pradesh,Prakasam,Chickpea,2277
+504,2009,1,Andhra Pradesh,Prakasam,Chickpea,2064
+504,2010,1,Andhra Pradesh,Prakasam,Chickpea,2628
+504,2011,1,Andhra Pradesh,Prakasam,Chickpea,4038
+504,2012,1,Andhra Pradesh,Prakasam,Chickpea,3329
+504,2013,1,Andhra Pradesh,Prakasam,Chickpea,2724
+504,2014,1,Andhra Pradesh,Prakasam,Chickpea,3648
+504,2015,1,Andhra Pradesh,Prakasam,Chickpea,4724
+504,2016,1,Andhra Pradesh,Prakasam,Chickpea,5313
+44,2000,1,Andhra Pradesh,Srikakulam,Pigeonpea,1209
+44,2001,1,Andhra Pradesh,Srikakulam,Pigeonpea,1273
+44,2002,1,Andhra Pradesh,Srikakulam,Pigeonpea,1366
+44,2003,1,Andhra Pradesh,Srikakulam,Pigeonpea,1279
+44,2004,1,Andhra Pradesh,Srikakulam,Pigeonpea,1349
+44,2005,1,Andhra Pradesh,Srikakulam,Pigeonpea,1253
+44,2006,1,Andhra Pradesh,Srikakulam,Pigeonpea,1979
+44,2007,1,Andhra Pradesh,Srikakulam,Pigeonpea,2081
+44,2008,1,Andhra Pradesh,Srikakulam,Pigeonpea,3103
+44,2009,1,Andhra Pradesh,Srikakulam,Pigeonpea,3702
+44,2010,1,Andhra Pradesh,Srikakulam,Pigeonpea,3284
+44,2011,1,Andhra Pradesh,Srikakulam,Pigeonpea,2772
+44,2012,1,Andhra Pradesh,Srikakulam,Pigeonpea,4448
+44,2013,1,Andhra Pradesh,Srikakulam,Pigeonpea,3728
+44,2014,1,Andhra Pradesh,Srikakulam,Pigeonpea,-1
+44,2015,1,Andhra Pradesh,Srikakulam,Pigeonpea,-1
+44,2016,1,Andhra Pradesh,Srikakulam,Pigeonpea,-1
+45,2000,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,1246
+45,2001,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,1273
+45,2002,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,1366
+45,2003,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,1279
+45,2004,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,1351
+45,2005,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,1253
+45,2006,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,1979
+45,2007,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,2081
+45,2008,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,3103
+45,2009,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,3659
+45,2010,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,3284
+45,2011,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,2772
+45,2012,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,4448
+45,2013,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,3500
+45,2014,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,4090
+45,2015,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,6257
+45,2016,1,Andhra Pradesh,Visakhapatnam,Pigeonpea,4178
+46,2000,1,Andhra Pradesh,East Godavari,Pigeonpea,1209
+46,2001,1,Andhra Pradesh,East Godavari,Pigeonpea,1336
+46,2002,1,Andhra Pradesh,East Godavari,Pigeonpea,1366
+46,2003,1,Andhra Pradesh,East Godavari,Pigeonpea,1551
+46,2004,1,Andhra Pradesh,East Godavari,Pigeonpea,1589
+46,2005,1,Andhra Pradesh,East Godavari,Pigeonpea,1454
+46,2006,1,Andhra Pradesh,East Godavari,Pigeonpea,1979
+46,2007,1,Andhra Pradesh,East Godavari,Pigeonpea,2081
+46,2008,1,Andhra Pradesh,East Godavari,Pigeonpea,3103
+46,2009,1,Andhra Pradesh,East Godavari,Pigeonpea,3659
+46,2010,1,Andhra Pradesh,East Godavari,Pigeonpea,3013
+46,2011,1,Andhra Pradesh,East Godavari,Pigeonpea,2772
+46,2012,1,Andhra Pradesh,East Godavari,Pigeonpea,4448
+46,2013,1,Andhra Pradesh,East Godavari,Pigeonpea,-1
+46,2014,1,Andhra Pradesh,East Godavari,Pigeonpea,-1
+46,2015,1,Andhra Pradesh,East Godavari,Pigeonpea,-1
+46,2016,1,Andhra Pradesh,East Godavari,Pigeonpea,5016
+47,2000,1,Andhra Pradesh,West Godavari,Pigeonpea,1246
+47,2001,1,Andhra Pradesh,West Godavari,Pigeonpea,1336
+47,2002,1,Andhra Pradesh,West Godavari,Pigeonpea,1408
+47,2003,1,Andhra Pradesh,West Godavari,Pigeonpea,1553
+47,2004,1,Andhra Pradesh,West Godavari,Pigeonpea,1470
+47,2005,1,Andhra Pradesh,West Godavari,Pigeonpea,1454
+47,2006,1,Andhra Pradesh,West Godavari,Pigeonpea,1979
+47,2007,1,Andhra Pradesh,West Godavari,Pigeonpea,2081
+47,2008,1,Andhra Pradesh,West Godavari,Pigeonpea,3103
+47,2009,1,Andhra Pradesh,West Godavari,Pigeonpea,3659
+47,2010,1,Andhra Pradesh,West Godavari,Pigeonpea,3143
+47,2011,1,Andhra Pradesh,West Godavari,Pigeonpea,2772
+47,2012,1,Andhra Pradesh,West Godavari,Pigeonpea,4448
+47,2013,1,Andhra Pradesh,West Godavari,Pigeonpea,-1
+47,2014,1,Andhra Pradesh,West Godavari,Pigeonpea,-1
+47,2015,1,Andhra Pradesh,West Godavari,Pigeonpea,-1
+47,2016,1,Andhra Pradesh,West Godavari,Pigeonpea,-1
+48,2000,1,Andhra Pradesh,Krishna,Pigeonpea,1246
+48,2001,1,Andhra Pradesh,Krishna,Pigeonpea,1336
+48,2002,1,Andhra Pradesh,Krishna,Pigeonpea,1574
+48,2003,1,Andhra Pradesh,Krishna,Pigeonpea,1555
+48,2004,1,Andhra Pradesh,Krishna,Pigeonpea,1470
+48,2005,1,Andhra Pradesh,Krishna,Pigeonpea,1454
+48,2006,1,Andhra Pradesh,Krishna,Pigeonpea,1921
+48,2007,1,Andhra Pradesh,Krishna,Pigeonpea,1848
+48,2008,1,Andhra Pradesh,Krishna,Pigeonpea,3183
+48,2009,1,Andhra Pradesh,Krishna,Pigeonpea,3612
+48,2010,1,Andhra Pradesh,Krishna,Pigeonpea,3025
+48,2011,1,Andhra Pradesh,Krishna,Pigeonpea,2772
+48,2012,1,Andhra Pradesh,Krishna,Pigeonpea,4993
+48,2013,1,Andhra Pradesh,Krishna,Pigeonpea,3750
+48,2014,1,Andhra Pradesh,Krishna,Pigeonpea,5394
+48,2015,1,Andhra Pradesh,Krishna,Pigeonpea,8197
+48,2016,1,Andhra Pradesh,Krishna,Pigeonpea,-1
+49,2000,1,Andhra Pradesh,Guntur,Pigeonpea,1232
+49,2001,1,Andhra Pradesh,Guntur,Pigeonpea,1490
+49,2002,1,Andhra Pradesh,Guntur,Pigeonpea,1562
+49,2003,1,Andhra Pradesh,Guntur,Pigeonpea,1578
+49,2004,1,Andhra Pradesh,Guntur,Pigeonpea,1486
+49,2005,1,Andhra Pradesh,Guntur,Pigeonpea,1645
+49,2006,1,Andhra Pradesh,Guntur,Pigeonpea,1896
+49,2007,1,Andhra Pradesh,Guntur,Pigeonpea,2239
+49,2008,1,Andhra Pradesh,Guntur,Pigeonpea,2990
+49,2009,1,Andhra Pradesh,Guntur,Pigeonpea,3723
+49,2010,1,Andhra Pradesh,Guntur,Pigeonpea,3512
+49,2011,1,Andhra Pradesh,Guntur,Pigeonpea,3303
+49,2012,1,Andhra Pradesh,Guntur,Pigeonpea,3864
+49,2013,1,Andhra Pradesh,Guntur,Pigeonpea,3840
+49,2014,1,Andhra Pradesh,Guntur,Pigeonpea,5886
+49,2015,1,Andhra Pradesh,Guntur,Pigeonpea,8723
+49,2016,1,Andhra Pradesh,Guntur,Pigeonpea,4503
+50,2000,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,1082
+50,2001,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,1469
+50,2002,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,1522
+50,2003,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,1567
+50,2004,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,1481
+50,2005,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,1664
+50,2006,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,2120
+50,2007,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,2198
+50,2008,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,3135
+50,2009,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,3659
+50,2010,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,4273
+50,2011,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,2611
+50,2012,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,3591
+50,2013,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,4070
+50,2014,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,-1
+50,2015,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,-1
+50,2016,1,Andhra Pradesh,S.P.S.Nellore,Pigeonpea,-1
+51,2000,1,Andhra Pradesh,Kurnool,Pigeonpea,1280
+51,2001,1,Andhra Pradesh,Kurnool,Pigeonpea,1366
+51,2002,1,Andhra Pradesh,Kurnool,Pigeonpea,1458
+51,2003,1,Andhra Pradesh,Kurnool,Pigeonpea,1563
+51,2004,1,Andhra Pradesh,Kurnool,Pigeonpea,1463
+51,2005,1,Andhra Pradesh,Kurnool,Pigeonpea,1488
+51,2006,1,Andhra Pradesh,Kurnool,Pigeonpea,2044
+51,2007,1,Andhra Pradesh,Kurnool,Pigeonpea,2105
+51,2008,1,Andhra Pradesh,Kurnool,Pigeonpea,2937
+51,2009,1,Andhra Pradesh,Kurnool,Pigeonpea,3825
+51,2010,1,Andhra Pradesh,Kurnool,Pigeonpea,3710
+51,2011,1,Andhra Pradesh,Kurnool,Pigeonpea,3278
+51,2012,1,Andhra Pradesh,Kurnool,Pigeonpea,2758
+51,2013,1,Andhra Pradesh,Kurnool,Pigeonpea,3826
+51,2014,1,Andhra Pradesh,Kurnool,Pigeonpea,5453
+51,2015,1,Andhra Pradesh,Kurnool,Pigeonpea,8636
+51,2016,1,Andhra Pradesh,Kurnool,Pigeonpea,4776
+52,2000,1,Andhra Pradesh,Anantapur,Pigeonpea,1160
+52,2001,1,Andhra Pradesh,Anantapur,Pigeonpea,1235
+52,2002,1,Andhra Pradesh,Anantapur,Pigeonpea,1508
+52,2003,1,Andhra Pradesh,Anantapur,Pigeonpea,1650
+52,2004,1,Andhra Pradesh,Anantapur,Pigeonpea,1458
+52,2005,1,Andhra Pradesh,Anantapur,Pigeonpea,1383
+52,2006,1,Andhra Pradesh,Anantapur,Pigeonpea,1889
+52,2007,1,Andhra Pradesh,Anantapur,Pigeonpea,2024
+52,2008,1,Andhra Pradesh,Anantapur,Pigeonpea,2468
+52,2009,1,Andhra Pradesh,Anantapur,Pigeonpea,3417
+52,2010,1,Andhra Pradesh,Anantapur,Pigeonpea,3040
+52,2011,1,Andhra Pradesh,Anantapur,Pigeonpea,2886
+52,2012,1,Andhra Pradesh,Anantapur,Pigeonpea,3199
+52,2013,1,Andhra Pradesh,Anantapur,Pigeonpea,3170
+52,2014,1,Andhra Pradesh,Anantapur,Pigeonpea,4530
+52,2015,1,Andhra Pradesh,Anantapur,Pigeonpea,7503
+52,2016,1,Andhra Pradesh,Anantapur,Pigeonpea,4069
+53,2000,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,1230
+53,2001,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,1319
+53,2002,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,1513
+53,2003,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,1564
+53,2004,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,1379
+53,2005,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,1418
+53,2006,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,1986
+53,2007,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,1834
+53,2008,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,2661
+53,2009,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,3506
+53,2010,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,2946
+53,2011,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,2640
+53,2012,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,3475
+53,2013,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,3337
+53,2014,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,4309
+53,2015,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,6379
+53,2016,1,Andhra Pradesh,Kadapa YSR,Pigeonpea,4401
+54,2000,1,Andhra Pradesh,Chittoor,Pigeonpea,880
+54,2001,1,Andhra Pradesh,Chittoor,Pigeonpea,1118
+54,2002,1,Andhra Pradesh,Chittoor,Pigeonpea,1424
+54,2003,1,Andhra Pradesh,Chittoor,Pigeonpea,1387
+54,2004,1,Andhra Pradesh,Chittoor,Pigeonpea,1272
+54,2005,1,Andhra Pradesh,Chittoor,Pigeonpea,1430
+54,2006,1,Andhra Pradesh,Chittoor,Pigeonpea,1690
+54,2007,1,Andhra Pradesh,Chittoor,Pigeonpea,1724
+54,2008,1,Andhra Pradesh,Chittoor,Pigeonpea,2785
+54,2009,1,Andhra Pradesh,Chittoor,Pigeonpea,3460
+54,2010,1,Andhra Pradesh,Chittoor,Pigeonpea,3604
+54,2011,1,Andhra Pradesh,Chittoor,Pigeonpea,3290
+54,2012,1,Andhra Pradesh,Chittoor,Pigeonpea,3078
+54,2013,1,Andhra Pradesh,Chittoor,Pigeonpea,2152
+54,2014,1,Andhra Pradesh,Chittoor,Pigeonpea,3789
+54,2015,1,Andhra Pradesh,Chittoor,Pigeonpea,6520
+54,2016,1,Andhra Pradesh,Chittoor,Pigeonpea,4538
+503,2000,1,Andhra Pradesh,Vizianagaram,Pigeonpea,1209
+503,2001,1,Andhra Pradesh,Vizianagaram,Pigeonpea,1273
+503,2002,1,Andhra Pradesh,Vizianagaram,Pigeonpea,1366
+503,2003,1,Andhra Pradesh,Vizianagaram,Pigeonpea,1279
+503,2004,1,Andhra Pradesh,Vizianagaram,Pigeonpea,1349
+503,2005,1,Andhra Pradesh,Vizianagaram,Pigeonpea,1253
+503,2006,1,Andhra Pradesh,Vizianagaram,Pigeonpea,1979
+503,2007,1,Andhra Pradesh,Vizianagaram,Pigeonpea,2081
+503,2008,1,Andhra Pradesh,Vizianagaram,Pigeonpea,3103
+503,2009,1,Andhra Pradesh,Vizianagaram,Pigeonpea,3659
+503,2010,1,Andhra Pradesh,Vizianagaram,Pigeonpea,3284
+503,2011,1,Andhra Pradesh,Vizianagaram,Pigeonpea,2772
+503,2012,1,Andhra Pradesh,Vizianagaram,Pigeonpea,4448
+503,2013,1,Andhra Pradesh,Vizianagaram,Pigeonpea,4366
+503,2014,1,Andhra Pradesh,Vizianagaram,Pigeonpea,4326
+503,2015,1,Andhra Pradesh,Vizianagaram,Pigeonpea,5285
+503,2016,1,Andhra Pradesh,Vizianagaram,Pigeonpea,4186
+504,2000,1,Andhra Pradesh,Prakasam,Pigeonpea,1283
+504,2001,1,Andhra Pradesh,Prakasam,Pigeonpea,1469
+504,2002,1,Andhra Pradesh,Prakasam,Pigeonpea,1592
+504,2003,1,Andhra Pradesh,Prakasam,Pigeonpea,1573
+504,2004,1,Andhra Pradesh,Prakasam,Pigeonpea,1476
+504,2005,1,Andhra Pradesh,Prakasam,Pigeonpea,1664
+504,2006,1,Andhra Pradesh,Prakasam,Pigeonpea,2120
+504,2007,1,Andhra Pradesh,Prakasam,Pigeonpea,2157
+504,2008,1,Andhra Pradesh,Prakasam,Pigeonpea,3135
+504,2009,1,Andhra Pradesh,Prakasam,Pigeonpea,3642
+504,2010,1,Andhra Pradesh,Prakasam,Pigeonpea,3228
+504,2011,1,Andhra Pradesh,Prakasam,Pigeonpea,3483
+504,2012,1,Andhra Pradesh,Prakasam,Pigeonpea,3807
+504,2013,1,Andhra Pradesh,Prakasam,Pigeonpea,4074
+504,2014,1,Andhra Pradesh,Prakasam,Pigeonpea,5758
+504,2015,1,Andhra Pradesh,Prakasam,Pigeonpea,7898
+504,2016,1,Andhra Pradesh,Prakasam,Pigeonpea,3888
+44,2000,1,Andhra Pradesh,Srikakulam,Sugarcane,920
+44,2001,1,Andhra Pradesh,Srikakulam,Sugarcane,1088
+44,2002,1,Andhra Pradesh,Srikakulam,Sugarcane,918
+44,2003,1,Andhra Pradesh,Srikakulam,Sugarcane,988
+44,2004,1,Andhra Pradesh,Srikakulam,Sugarcane,1149
+44,2005,1,Andhra Pradesh,Srikakulam,Sugarcane,1209
+44,2006,1,Andhra Pradesh,Srikakulam,Sugarcane,1206
+44,2007,1,Andhra Pradesh,Srikakulam,Sugarcane,1163
+44,2008,1,Andhra Pradesh,Srikakulam,Sugarcane,1856
+44,2009,1,Andhra Pradesh,Srikakulam,Sugarcane,2790
+44,2010,1,Andhra Pradesh,Srikakulam,Sugarcane,2685
+44,2011,1,Andhra Pradesh,Srikakulam,Sugarcane,2563
+44,2012,1,Andhra Pradesh,Srikakulam,Sugarcane,2968
+44,2013,1,Andhra Pradesh,Srikakulam,Sugarcane,2458
+44,2014,1,Andhra Pradesh,Srikakulam,Sugarcane,2721
+44,2015,1,Andhra Pradesh,Srikakulam,Sugarcane,3352
+44,2016,1,Andhra Pradesh,Srikakulam,Sugarcane,3890
+45,2000,1,Andhra Pradesh,Visakhapatnam,Sugarcane,920
+45,2001,1,Andhra Pradesh,Visakhapatnam,Sugarcane,1041
+45,2002,1,Andhra Pradesh,Visakhapatnam,Sugarcane,952
+45,2003,1,Andhra Pradesh,Visakhapatnam,Sugarcane,884
+45,2004,1,Andhra Pradesh,Visakhapatnam,Sugarcane,1237
+45,2005,1,Andhra Pradesh,Visakhapatnam,Sugarcane,1446
+45,2006,1,Andhra Pradesh,Visakhapatnam,Sugarcane,1387
+45,2007,1,Andhra Pradesh,Visakhapatnam,Sugarcane,1018
+45,2008,1,Andhra Pradesh,Visakhapatnam,Sugarcane,2385
+45,2009,1,Andhra Pradesh,Visakhapatnam,Sugarcane,3201
+45,2010,1,Andhra Pradesh,Visakhapatnam,Sugarcane,1822
+45,2011,1,Andhra Pradesh,Visakhapatnam,Sugarcane,2435
+45,2012,1,Andhra Pradesh,Visakhapatnam,Sugarcane,2644
+45,2013,1,Andhra Pradesh,Visakhapatnam,Sugarcane,2157
+45,2014,1,Andhra Pradesh,Visakhapatnam,Sugarcane,2233
+45,2015,1,Andhra Pradesh,Visakhapatnam,Sugarcane,2167
+45,2016,1,Andhra Pradesh,Visakhapatnam,Sugarcane,2206
+46,2000,1,Andhra Pradesh,East Godavari,Sugarcane,920
+46,2001,1,Andhra Pradesh,East Godavari,Sugarcane,1041
+46,2002,1,Andhra Pradesh,East Godavari,Sugarcane,989
+46,2003,1,Andhra Pradesh,East Godavari,Sugarcane,989
+46,2004,1,Andhra Pradesh,East Godavari,Sugarcane,1462
+46,2005,1,Andhra Pradesh,East Godavari,Sugarcane,1493
+46,2006,1,Andhra Pradesh,East Godavari,Sugarcane,1387
+46,2007,1,Andhra Pradesh,East Godavari,Sugarcane,1438
+46,2008,1,Andhra Pradesh,East Godavari,Sugarcane,2564
+46,2009,1,Andhra Pradesh,East Godavari,Sugarcane,3740
+46,2010,1,Andhra Pradesh,East Godavari,Sugarcane,3415
+46,2011,1,Andhra Pradesh,East Godavari,Sugarcane,3579
+46,2012,1,Andhra Pradesh,East Godavari,Sugarcane,3572
+46,2013,1,Andhra Pradesh,East Godavari,Sugarcane,3504
+46,2014,1,Andhra Pradesh,East Godavari,Sugarcane,3082
+46,2015,1,Andhra Pradesh,East Godavari,Sugarcane,3183
+46,2016,1,Andhra Pradesh,East Godavari,Sugarcane,4192
+47,2000,1,Andhra Pradesh,West Godavari,Sugarcane,920
+47,2001,1,Andhra Pradesh,West Godavari,Sugarcane,1170
+47,2002,1,Andhra Pradesh,West Godavari,Sugarcane,935
+47,2003,1,Andhra Pradesh,West Godavari,Sugarcane,1178
+47,2004,1,Andhra Pradesh,West Godavari,Sugarcane,1497
+47,2005,1,Andhra Pradesh,West Godavari,Sugarcane,1626
+47,2006,1,Andhra Pradesh,West Godavari,Sugarcane,1484
+47,2007,1,Andhra Pradesh,West Godavari,Sugarcane,1729
+47,2008,1,Andhra Pradesh,West Godavari,Sugarcane,1995
+47,2009,1,Andhra Pradesh,West Godavari,Sugarcane,3697
+47,2010,1,Andhra Pradesh,West Godavari,Sugarcane,3290
+47,2011,1,Andhra Pradesh,West Godavari,Sugarcane,2883
+47,2012,1,Andhra Pradesh,West Godavari,Sugarcane,3246
+47,2013,1,Andhra Pradesh,West Godavari,Sugarcane,-1
+47,2014,1,Andhra Pradesh,West Godavari,Sugarcane,2913
+47,2015,1,Andhra Pradesh,West Godavari,Sugarcane,2872
+47,2016,1,Andhra Pradesh,West Godavari,Sugarcane,3476
+48,2000,1,Andhra Pradesh,Krishna,Sugarcane,1010
+48,2001,1,Andhra Pradesh,Krishna,Sugarcane,1170
+48,2002,1,Andhra Pradesh,Krishna,Sugarcane,962
+48,2003,1,Andhra Pradesh,Krishna,Sugarcane,1083
+48,2004,1,Andhra Pradesh,Krishna,Sugarcane,1497
+48,2005,1,Andhra Pradesh,Krishna,Sugarcane,1330
+48,2006,1,Andhra Pradesh,Krishna,Sugarcane,1050
+48,2007,1,Andhra Pradesh,Krishna,Sugarcane,1584
+48,2008,1,Andhra Pradesh,Krishna,Sugarcane,1425
+48,2009,1,Andhra Pradesh,Krishna,Sugarcane,2790
+48,2010,1,Andhra Pradesh,Krishna,Sugarcane,3352
+48,2011,1,Andhra Pradesh,Krishna,Sugarcane,3231
+48,2012,1,Andhra Pradesh,Krishna,Sugarcane,3246
+48,2013,1,Andhra Pradesh,Krishna,Sugarcane,-1
+48,2014,1,Andhra Pradesh,Krishna,Sugarcane,-1
+48,2015,1,Andhra Pradesh,Krishna,Sugarcane,-1
+48,2016,1,Andhra Pradesh,Krishna,Sugarcane,-1
+49,2000,1,Andhra Pradesh,Guntur,Sugarcane,1010
+49,2001,1,Andhra Pradesh,Guntur,Sugarcane,811
+49,2002,1,Andhra Pradesh,Guntur,Sugarcane,962
+49,2003,1,Andhra Pradesh,Guntur,Sugarcane,862
+49,2004,1,Andhra Pradesh,Guntur,Sugarcane,1336
+49,2005,1,Andhra Pradesh,Guntur,Sugarcane,1330
+49,2006,1,Andhra Pradesh,Guntur,Sugarcane,1050
+49,2007,1,Andhra Pradesh,Guntur,Sugarcane,1083
+49,2008,1,Andhra Pradesh,Guntur,Sugarcane,1425
+49,2009,1,Andhra Pradesh,Guntur,Sugarcane,1546
+49,2010,1,Andhra Pradesh,Guntur,Sugarcane,2010
+49,2011,1,Andhra Pradesh,Guntur,Sugarcane,2020
+49,2012,1,Andhra Pradesh,Guntur,Sugarcane,3246
+49,2013,1,Andhra Pradesh,Guntur,Sugarcane,-1
+49,2014,1,Andhra Pradesh,Guntur,Sugarcane,-1
+49,2015,1,Andhra Pradesh,Guntur,Sugarcane,-1
+49,2016,1,Andhra Pradesh,Guntur,Sugarcane,-1
+50,2000,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,1082
+50,2001,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,811
+50,2002,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,962
+50,2003,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,862
+50,2004,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,1336
+50,2005,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,1380
+50,2006,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,1050
+50,2007,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,1083
+50,2008,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,2437
+50,2009,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,2790
+50,2010,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,2050
+50,2011,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,1813
+50,2012,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,3246
+50,2013,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,-1
+50,2014,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,-1
+50,2015,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,-1
+50,2016,1,Andhra Pradesh,S.P.S.Nellore,Sugarcane,-1
+51,2000,1,Andhra Pradesh,Kurnool,Sugarcane,1281
+51,2001,1,Andhra Pradesh,Kurnool,Sugarcane,811
+51,2002,1,Andhra Pradesh,Kurnool,Sugarcane,875
+51,2003,1,Andhra Pradesh,Kurnool,Sugarcane,958
+51,2004,1,Andhra Pradesh,Kurnool,Sugarcane,1648
+51,2005,1,Andhra Pradesh,Kurnool,Sugarcane,1551
+51,2006,1,Andhra Pradesh,Kurnool,Sugarcane,1083
+51,2007,1,Andhra Pradesh,Kurnool,Sugarcane,1516
+51,2008,1,Andhra Pradesh,Kurnool,Sugarcane,2437
+51,2009,1,Andhra Pradesh,Kurnool,Sugarcane,1618
+51,2010,1,Andhra Pradesh,Kurnool,Sugarcane,1947
+51,2011,1,Andhra Pradesh,Kurnool,Sugarcane,2133
+51,2012,1,Andhra Pradesh,Kurnool,Sugarcane,3246
+51,2013,1,Andhra Pradesh,Kurnool,Sugarcane,2228
+51,2014,1,Andhra Pradesh,Kurnool,Sugarcane,-1
+51,2015,1,Andhra Pradesh,Kurnool,Sugarcane,-1
+51,2016,1,Andhra Pradesh,Kurnool,Sugarcane,-1
+52,2000,1,Andhra Pradesh,Anantapur,Sugarcane,1160
+52,2001,1,Andhra Pradesh,Anantapur,Sugarcane,811
+52,2002,1,Andhra Pradesh,Anantapur,Sugarcane,875
+52,2003,1,Andhra Pradesh,Anantapur,Sugarcane,958
+52,2004,1,Andhra Pradesh,Anantapur,Sugarcane,1648
+52,2005,1,Andhra Pradesh,Anantapur,Sugarcane,1551
+52,2006,1,Andhra Pradesh,Anantapur,Sugarcane,1083
+52,2007,1,Andhra Pradesh,Anantapur,Sugarcane,1516
+52,2008,1,Andhra Pradesh,Anantapur,Sugarcane,2437
+52,2009,1,Andhra Pradesh,Anantapur,Sugarcane,2500
+52,2010,1,Andhra Pradesh,Anantapur,Sugarcane,2238
+52,2011,1,Andhra Pradesh,Anantapur,Sugarcane,2133
+52,2012,1,Andhra Pradesh,Anantapur,Sugarcane,2427
+52,2013,1,Andhra Pradesh,Anantapur,Sugarcane,-1
+52,2014,1,Andhra Pradesh,Anantapur,Sugarcane,-1
+52,2015,1,Andhra Pradesh,Anantapur,Sugarcane,-1
+52,2016,1,Andhra Pradesh,Anantapur,Sugarcane,-1
+53,2000,1,Andhra Pradesh,Kadapa YSR,Sugarcane,1230
+53,2001,1,Andhra Pradesh,Kadapa YSR,Sugarcane,811
+53,2002,1,Andhra Pradesh,Kadapa YSR,Sugarcane,875
+53,2003,1,Andhra Pradesh,Kadapa YSR,Sugarcane,958
+53,2004,1,Andhra Pradesh,Kadapa YSR,Sugarcane,1648
+53,2005,1,Andhra Pradesh,Kadapa YSR,Sugarcane,1551
+53,2006,1,Andhra Pradesh,Kadapa YSR,Sugarcane,1083
+53,2007,1,Andhra Pradesh,Kadapa YSR,Sugarcane,1516
+53,2008,1,Andhra Pradesh,Kadapa YSR,Sugarcane,2437
+53,2009,1,Andhra Pradesh,Kadapa YSR,Sugarcane,2500
+53,2010,1,Andhra Pradesh,Kadapa YSR,Sugarcane,2238
+53,2011,1,Andhra Pradesh,Kadapa YSR,Sugarcane,2133
+53,2012,1,Andhra Pradesh,Kadapa YSR,Sugarcane,3246
+53,2013,1,Andhra Pradesh,Kadapa YSR,Sugarcane,-1
+53,2014,1,Andhra Pradesh,Kadapa YSR,Sugarcane,-1
+53,2015,1,Andhra Pradesh,Kadapa YSR,Sugarcane,-1
+53,2016,1,Andhra Pradesh,Kadapa YSR,Sugarcane,-1
+54,2000,1,Andhra Pradesh,Chittoor,Sugarcane,880
+54,2001,1,Andhra Pradesh,Chittoor,Sugarcane,811
+54,2002,1,Andhra Pradesh,Chittoor,Sugarcane,875
+54,2003,1,Andhra Pradesh,Chittoor,Sugarcane,958
+54,2004,1,Andhra Pradesh,Chittoor,Sugarcane,1648
+54,2005,1,Andhra Pradesh,Chittoor,Sugarcane,1551
+54,2006,1,Andhra Pradesh,Chittoor,Sugarcane,1083
+54,2007,1,Andhra Pradesh,Chittoor,Sugarcane,1516
+54,2008,1,Andhra Pradesh,Chittoor,Sugarcane,1957
+54,2009,1,Andhra Pradesh,Chittoor,Sugarcane,3382
+54,2010,1,Andhra Pradesh,Chittoor,Sugarcane,2529
+54,2011,1,Andhra Pradesh,Chittoor,Sugarcane,2133
+54,2012,1,Andhra Pradesh,Chittoor,Sugarcane,2427
+54,2013,1,Andhra Pradesh,Chittoor,Sugarcane,2449
+54,2014,1,Andhra Pradesh,Chittoor,Sugarcane,2488
+54,2015,1,Andhra Pradesh,Chittoor,Sugarcane,2331
+54,2016,1,Andhra Pradesh,Chittoor,Sugarcane,2842
+503,2000,1,Andhra Pradesh,Vizianagaram,Sugarcane,920
+503,2001,1,Andhra Pradesh,Vizianagaram,Sugarcane,1088
+503,2002,1,Andhra Pradesh,Vizianagaram,Sugarcane,918
+503,2003,1,Andhra Pradesh,Vizianagaram,Sugarcane,936
+503,2004,1,Andhra Pradesh,Vizianagaram,Sugarcane,1149
+503,2005,1,Andhra Pradesh,Vizianagaram,Sugarcane,1209
+503,2006,1,Andhra Pradesh,Vizianagaram,Sugarcane,1206
+503,2007,1,Andhra Pradesh,Vizianagaram,Sugarcane,1090
+503,2008,1,Andhra Pradesh,Vizianagaram,Sugarcane,1742
+503,2009,1,Andhra Pradesh,Vizianagaram,Sugarcane,1764
+503,2010,1,Andhra Pradesh,Vizianagaram,Sugarcane,1840
+503,2011,1,Andhra Pradesh,Vizianagaram,Sugarcane,2157
+503,2012,1,Andhra Pradesh,Vizianagaram,Sugarcane,2219
+503,2013,1,Andhra Pradesh,Vizianagaram,Sugarcane,-1
+503,2014,1,Andhra Pradesh,Vizianagaram,Sugarcane,2527
+503,2015,1,Andhra Pradesh,Vizianagaram,Sugarcane,2501
+503,2016,1,Andhra Pradesh,Vizianagaram,Sugarcane,3119
+504,2000,1,Andhra Pradesh,Prakasam,Sugarcane,720
+504,2001,1,Andhra Pradesh,Prakasam,Sugarcane,811
+504,2002,1,Andhra Pradesh,Prakasam,Sugarcane,962
+504,2003,1,Andhra Pradesh,Prakasam,Sugarcane,862
+504,2004,1,Andhra Pradesh,Prakasam,Sugarcane,1336
+504,2005,1,Andhra Pradesh,Prakasam,Sugarcane,1330
+504,2006,1,Andhra Pradesh,Prakasam,Sugarcane,1050
+504,2007,1,Andhra Pradesh,Prakasam,Sugarcane,1083
+504,2008,1,Andhra Pradesh,Prakasam,Sugarcane,1425
+504,2009,1,Andhra Pradesh,Prakasam,Sugarcane,2790
+504,2010,1,Andhra Pradesh,Prakasam,Sugarcane,2030
+504,2011,1,Andhra Pradesh,Prakasam,Sugarcane,1916
+504,2012,1,Andhra Pradesh,Prakasam,Sugarcane,3246
+504,2013,1,Andhra Pradesh,Prakasam,Sugarcane,-1
+504,2014,1,Andhra Pradesh,Prakasam,Sugarcane,-1
+504,2015,1,Andhra Pradesh,Prakasam,Sugarcane,-1
+504,2016,1,Andhra Pradesh,Prakasam,Sugarcane,-1
+44,2000,1,Andhra Pradesh,Srikakulam,Cotton,1888
+44,2001,1,Andhra Pradesh,Srikakulam,Cotton,1479
+44,2002,1,Andhra Pradesh,Srikakulam,Cotton,1696
+44,2003,1,Andhra Pradesh,Srikakulam,Cotton,2403
+44,2004,1,Andhra Pradesh,Srikakulam,Cotton,1764
+44,2005,1,Andhra Pradesh,Srikakulam,Cotton,1808
+44,2006,1,Andhra Pradesh,Srikakulam,Cotton,1776
+44,2007,1,Andhra Pradesh,Srikakulam,Cotton,1854
+44,2008,1,Andhra Pradesh,Srikakulam,Cotton,2438
+44,2009,1,Andhra Pradesh,Srikakulam,Cotton,2567
+44,2010,1,Andhra Pradesh,Srikakulam,Cotton,3179
+44,2011,1,Andhra Pradesh,Srikakulam,Cotton,3810
+44,2012,1,Andhra Pradesh,Srikakulam,Cotton,3205
+44,2013,1,Andhra Pradesh,Srikakulam,Cotton,3485
+44,2014,1,Andhra Pradesh,Srikakulam,Cotton,3614
+44,2015,1,Andhra Pradesh,Srikakulam,Cotton,3810
+44,2016,1,Andhra Pradesh,Srikakulam,Cotton,4541
+45,2000,1,Andhra Pradesh,Visakhapatnam,Cotton,1888
+45,2001,1,Andhra Pradesh,Visakhapatnam,Cotton,1479
+45,2002,1,Andhra Pradesh,Visakhapatnam,Cotton,1696
+45,2003,1,Andhra Pradesh,Visakhapatnam,Cotton,2403
+45,2004,1,Andhra Pradesh,Visakhapatnam,Cotton,1648
+45,2005,1,Andhra Pradesh,Visakhapatnam,Cotton,1392
+45,2006,1,Andhra Pradesh,Visakhapatnam,Cotton,1757
+45,2007,1,Andhra Pradesh,Visakhapatnam,Cotton,1764
+45,2008,1,Andhra Pradesh,Visakhapatnam,Cotton,2439
+45,2009,1,Andhra Pradesh,Visakhapatnam,Cotton,2568
+45,2010,1,Andhra Pradesh,Visakhapatnam,Cotton,3364
+45,2011,1,Andhra Pradesh,Visakhapatnam,Cotton,3644
+45,2012,1,Andhra Pradesh,Visakhapatnam,Cotton,3212
+45,2013,1,Andhra Pradesh,Visakhapatnam,Cotton,4086
+45,2014,1,Andhra Pradesh,Visakhapatnam,Cotton,3432
+45,2015,1,Andhra Pradesh,Visakhapatnam,Cotton,3649
+45,2016,1,Andhra Pradesh,Visakhapatnam,Cotton,4867
+46,2000,1,Andhra Pradesh,East Godavari,Cotton,1888
+46,2001,1,Andhra Pradesh,East Godavari,Cotton,1479
+46,2002,1,Andhra Pradesh,East Godavari,Cotton,1696
+46,2003,1,Andhra Pradesh,East Godavari,Cotton,2300
+46,2004,1,Andhra Pradesh,East Godavari,Cotton,1597
+46,2005,1,Andhra Pradesh,East Godavari,Cotton,1741
+46,2006,1,Andhra Pradesh,East Godavari,Cotton,1726
+46,2007,1,Andhra Pradesh,East Godavari,Cotton,1842
+46,2008,1,Andhra Pradesh,East Godavari,Cotton,2388
+46,2009,1,Andhra Pradesh,East Godavari,Cotton,2707
+46,2010,1,Andhra Pradesh,East Godavari,Cotton,2826
+46,2011,1,Andhra Pradesh,East Godavari,Cotton,3409
+46,2012,1,Andhra Pradesh,East Godavari,Cotton,3019
+46,2013,1,Andhra Pradesh,East Godavari,Cotton,3418
+46,2014,1,Andhra Pradesh,East Godavari,Cotton,3493
+46,2015,1,Andhra Pradesh,East Godavari,Cotton,3787
+46,2016,1,Andhra Pradesh,East Godavari,Cotton,4347
+47,2000,1,Andhra Pradesh,West Godavari,Cotton,1888
+47,2001,1,Andhra Pradesh,West Godavari,Cotton,1678
+47,2002,1,Andhra Pradesh,West Godavari,Cotton,1696
+47,2003,1,Andhra Pradesh,West Godavari,Cotton,2300
+47,2004,1,Andhra Pradesh,West Godavari,Cotton,1597
+47,2005,1,Andhra Pradesh,West Godavari,Cotton,2069
+47,2006,1,Andhra Pradesh,West Godavari,Cotton,1928
+47,2007,1,Andhra Pradesh,West Godavari,Cotton,1976
+47,2008,1,Andhra Pradesh,West Godavari,Cotton,2580
+47,2009,1,Andhra Pradesh,West Godavari,Cotton,2879
+47,2010,1,Andhra Pradesh,West Godavari,Cotton,4884
+47,2011,1,Andhra Pradesh,West Godavari,Cotton,3608
+47,2012,1,Andhra Pradesh,West Godavari,Cotton,3254
+47,2013,1,Andhra Pradesh,West Godavari,Cotton,4091
+47,2014,1,Andhra Pradesh,West Godavari,Cotton,3752
+47,2015,1,Andhra Pradesh,West Godavari,Cotton,4010
+47,2016,1,Andhra Pradesh,West Godavari,Cotton,4407
+48,2000,1,Andhra Pradesh,Krishna,Cotton,1888
+48,2001,1,Andhra Pradesh,Krishna,Cotton,1678
+48,2002,1,Andhra Pradesh,Krishna,Cotton,1696
+48,2003,1,Andhra Pradesh,Krishna,Cotton,2210
+48,2004,1,Andhra Pradesh,Krishna,Cotton,1773
+48,2005,1,Andhra Pradesh,Krishna,Cotton,1807
+48,2006,1,Andhra Pradesh,Krishna,Cotton,1926
+48,2007,1,Andhra Pradesh,Krishna,Cotton,1954
+48,2008,1,Andhra Pradesh,Krishna,Cotton,2665
+48,2009,1,Andhra Pradesh,Krishna,Cotton,2824
+48,2010,1,Andhra Pradesh,Krishna,Cotton,4503
+48,2011,1,Andhra Pradesh,Krishna,Cotton,3570
+48,2012,1,Andhra Pradesh,Krishna,Cotton,3116
+48,2013,1,Andhra Pradesh,Krishna,Cotton,3907
+48,2014,1,Andhra Pradesh,Krishna,Cotton,3831
+48,2015,1,Andhra Pradesh,Krishna,Cotton,3904
+48,2016,1,Andhra Pradesh,Krishna,Cotton,4528
+49,2000,1,Andhra Pradesh,Guntur,Cotton,2039
+49,2001,1,Andhra Pradesh,Guntur,Cotton,1554
+49,2002,1,Andhra Pradesh,Guntur,Cotton,1696
+49,2003,1,Andhra Pradesh,Guntur,Cotton,2407
+49,2004,1,Andhra Pradesh,Guntur,Cotton,1938
+49,2005,1,Andhra Pradesh,Guntur,Cotton,1874
+49,2006,1,Andhra Pradesh,Guntur,Cotton,1925
+49,2007,1,Andhra Pradesh,Guntur,Cotton,1949
+49,2008,1,Andhra Pradesh,Guntur,Cotton,2694
+49,2009,1,Andhra Pradesh,Guntur,Cotton,2960
+49,2010,1,Andhra Pradesh,Guntur,Cotton,4720
+49,2011,1,Andhra Pradesh,Guntur,Cotton,3547
+49,2012,1,Andhra Pradesh,Guntur,Cotton,3302
+49,2013,1,Andhra Pradesh,Guntur,Cotton,4199
+49,2014,1,Andhra Pradesh,Guntur,Cotton,3619
+49,2015,1,Andhra Pradesh,Guntur,Cotton,4049
+49,2016,1,Andhra Pradesh,Guntur,Cotton,4717
+50,2000,1,Andhra Pradesh,S.P.S.Nellore,Cotton,1903
+50,2001,1,Andhra Pradesh,S.P.S.Nellore,Cotton,1799
+50,2002,1,Andhra Pradesh,S.P.S.Nellore,Cotton,1883
+50,2003,1,Andhra Pradesh,S.P.S.Nellore,Cotton,2293
+50,2004,1,Andhra Pradesh,S.P.S.Nellore,Cotton,1895
+50,2005,1,Andhra Pradesh,S.P.S.Nellore,Cotton,1754
+50,2006,1,Andhra Pradesh,S.P.S.Nellore,Cotton,1801
+50,2007,1,Andhra Pradesh,S.P.S.Nellore,Cotton,2060
+50,2008,1,Andhra Pradesh,S.P.S.Nellore,Cotton,2571
+50,2009,1,Andhra Pradesh,S.P.S.Nellore,Cotton,2449
+50,2010,1,Andhra Pradesh,S.P.S.Nellore,Cotton,3172
+50,2011,1,Andhra Pradesh,S.P.S.Nellore,Cotton,2756
+50,2012,1,Andhra Pradesh,S.P.S.Nellore,Cotton,3652
+50,2013,1,Andhra Pradesh,S.P.S.Nellore,Cotton,3919
+50,2014,1,Andhra Pradesh,S.P.S.Nellore,Cotton,4244
+50,2015,1,Andhra Pradesh,S.P.S.Nellore,Cotton,3449
+50,2016,1,Andhra Pradesh,S.P.S.Nellore,Cotton,4408
+51,2000,1,Andhra Pradesh,Kurnool,Cotton,1922
+51,2001,1,Andhra Pradesh,Kurnool,Cotton,1787
+51,2002,1,Andhra Pradesh,Kurnool,Cotton,1831
+51,2003,1,Andhra Pradesh,Kurnool,Cotton,2463
+51,2004,1,Andhra Pradesh,Kurnool,Cotton,1634
+51,2005,1,Andhra Pradesh,Kurnool,Cotton,1699
+51,2006,1,Andhra Pradesh,Kurnool,Cotton,2040
+51,2007,1,Andhra Pradesh,Kurnool,Cotton,2114
+51,2008,1,Andhra Pradesh,Kurnool,Cotton,2493
+51,2009,1,Andhra Pradesh,Kurnool,Cotton,2923
+51,2010,1,Andhra Pradesh,Kurnool,Cotton,4286
+51,2011,1,Andhra Pradesh,Kurnool,Cotton,3847
+51,2012,1,Andhra Pradesh,Kurnool,Cotton,4042
+51,2013,1,Andhra Pradesh,Kurnool,Cotton,6858
+51,2014,1,Andhra Pradesh,Kurnool,Cotton,3941
+51,2015,1,Andhra Pradesh,Kurnool,Cotton,4064
+51,2016,1,Andhra Pradesh,Kurnool,Cotton,4240
+52,2000,1,Andhra Pradesh,Anantapur,Cotton,1930
+52,2001,1,Andhra Pradesh,Anantapur,Cotton,1467
+52,2002,1,Andhra Pradesh,Anantapur,Cotton,1902
+52,2003,1,Andhra Pradesh,Anantapur,Cotton,2489
+52,2004,1,Andhra Pradesh,Anantapur,Cotton,1634
+52,2005,1,Andhra Pradesh,Anantapur,Cotton,2038
+52,2006,1,Andhra Pradesh,Anantapur,Cotton,2053
+52,2007,1,Andhra Pradesh,Anantapur,Cotton,2064
+52,2008,1,Andhra Pradesh,Anantapur,Cotton,2755
+52,2009,1,Andhra Pradesh,Anantapur,Cotton,2833
+52,2010,1,Andhra Pradesh,Anantapur,Cotton,5484
+52,2011,1,Andhra Pradesh,Anantapur,Cotton,3877
+52,2012,1,Andhra Pradesh,Anantapur,Cotton,3830
+52,2013,1,Andhra Pradesh,Anantapur,Cotton,4884
+52,2014,1,Andhra Pradesh,Anantapur,Cotton,3641
+52,2015,1,Andhra Pradesh,Anantapur,Cotton,4346
+52,2016,1,Andhra Pradesh,Anantapur,Cotton,4916
+53,2000,1,Andhra Pradesh,Kadapa YSR,Cotton,1930
+53,2001,1,Andhra Pradesh,Kadapa YSR,Cotton,1467
+53,2002,1,Andhra Pradesh,Kadapa YSR,Cotton,1902
+53,2003,1,Andhra Pradesh,Kadapa YSR,Cotton,2514
+53,2004,1,Andhra Pradesh,Kadapa YSR,Cotton,1634
+53,2005,1,Andhra Pradesh,Kadapa YSR,Cotton,1871
+53,2006,1,Andhra Pradesh,Kadapa YSR,Cotton,2053
+53,2007,1,Andhra Pradesh,Kadapa YSR,Cotton,2184
+53,2008,1,Andhra Pradesh,Kadapa YSR,Cotton,2755
+53,2009,1,Andhra Pradesh,Kadapa YSR,Cotton,2742
+53,2010,1,Andhra Pradesh,Kadapa YSR,Cotton,3258
+53,2011,1,Andhra Pradesh,Kadapa YSR,Cotton,3591
+53,2012,1,Andhra Pradesh,Kadapa YSR,Cotton,3605
+53,2013,1,Andhra Pradesh,Kadapa YSR,Cotton,4619
+53,2014,1,Andhra Pradesh,Kadapa YSR,Cotton,4285
+53,2015,1,Andhra Pradesh,Kadapa YSR,Cotton,4145
+53,2016,1,Andhra Pradesh,Kadapa YSR,Cotton,4953
+54,2000,1,Andhra Pradesh,Chittoor,Cotton,1930
+54,2001,1,Andhra Pradesh,Chittoor,Cotton,1799
+54,2002,1,Andhra Pradesh,Chittoor,Cotton,-1
+54,2003,1,Andhra Pradesh,Chittoor,Cotton,-1
+54,2004,1,Andhra Pradesh,Chittoor,Cotton,1855
+54,2005,1,Andhra Pradesh,Chittoor,Cotton,1869
+54,2006,1,Andhra Pradesh,Chittoor,Cotton,1936
+54,2007,1,Andhra Pradesh,Chittoor,Cotton,2063
+54,2008,1,Andhra Pradesh,Chittoor,Cotton,2763
+54,2009,1,Andhra Pradesh,Chittoor,Cotton,2965
+54,2010,1,Andhra Pradesh,Chittoor,Cotton,-1
+54,2011,1,Andhra Pradesh,Chittoor,Cotton,-1
+54,2012,1,Andhra Pradesh,Chittoor,Cotton,-1
+54,2013,1,Andhra Pradesh,Chittoor,Cotton,-1
+54,2014,1,Andhra Pradesh,Chittoor,Cotton,-1
+54,2015,1,Andhra Pradesh,Chittoor,Cotton,-1
+54,2016,1,Andhra Pradesh,Chittoor,Cotton,-1
+503,2000,1,Andhra Pradesh,Vizianagaram,Cotton,1888
+503,2001,1,Andhra Pradesh,Vizianagaram,Cotton,1479
+503,2002,1,Andhra Pradesh,Vizianagaram,Cotton,1696
+503,2003,1,Andhra Pradesh,Vizianagaram,Cotton,2403
+503,2004,1,Andhra Pradesh,Vizianagaram,Cotton,1533
+503,2005,1,Andhra Pradesh,Vizianagaram,Cotton,1392
+503,2006,1,Andhra Pradesh,Vizianagaram,Cotton,1738
+503,2007,1,Andhra Pradesh,Vizianagaram,Cotton,1675
+503,2008,1,Andhra Pradesh,Vizianagaram,Cotton,2440
+503,2009,1,Andhra Pradesh,Vizianagaram,Cotton,2569
+503,2010,1,Andhra Pradesh,Vizianagaram,Cotton,3548
+503,2011,1,Andhra Pradesh,Vizianagaram,Cotton,3478
+503,2012,1,Andhra Pradesh,Vizianagaram,Cotton,3212
+503,2013,1,Andhra Pradesh,Vizianagaram,Cotton,3646
+503,2014,1,Andhra Pradesh,Vizianagaram,Cotton,3483
+503,2015,1,Andhra Pradesh,Vizianagaram,Cotton,3604
+503,2016,1,Andhra Pradesh,Vizianagaram,Cotton,4220
+504,2000,1,Andhra Pradesh,Prakasam,Cotton,1930
+504,2001,1,Andhra Pradesh,Prakasam,Cotton,1799
+504,2002,1,Andhra Pradesh,Prakasam,Cotton,1883
+504,2003,1,Andhra Pradesh,Prakasam,Cotton,2179
+504,2004,1,Andhra Pradesh,Prakasam,Cotton,1895
+504,2005,1,Andhra Pradesh,Prakasam,Cotton,1769
+504,2006,1,Andhra Pradesh,Prakasam,Cotton,2055
+504,2007,1,Andhra Pradesh,Prakasam,Cotton,2055
+504,2008,1,Andhra Pradesh,Prakasam,Cotton,2632
+504,2009,1,Andhra Pradesh,Prakasam,Cotton,2801
+504,2010,1,Andhra Pradesh,Prakasam,Cotton,4724
+504,2011,1,Andhra Pradesh,Prakasam,Cotton,3579
+504,2012,1,Andhra Pradesh,Prakasam,Cotton,3497
+504,2013,1,Andhra Pradesh,Prakasam,Cotton,3950
+504,2014,1,Andhra Pradesh,Prakasam,Cotton,3477
+504,2015,1,Andhra Pradesh,Prakasam,Cotton,4098
+504,2016,1,Andhra Pradesh,Prakasam,Cotton,4140
